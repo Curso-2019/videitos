@@ -5,11 +5,21 @@
 }
 
 .barra ul{
-	border-bottom:1px solid #000;
+	border-bottom:1px solid #dadada;
 	list-style:none;
+	margin-bottom: 20px;
 }
 
 .barra ul li a{
 	text-decoration:none;
+	display: block;
+	padding: 20px 5px;
 }
 
+.barra ul li:hover ion-icon{
+	color: red;
+}
+.barra ul li ion-icon{
+	margin-right: 20px;
+	transition: all 0.5s;
+}

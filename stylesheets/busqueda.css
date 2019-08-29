@@ -1,0 +1,29 @@
+.busqueda{
+    padding: 20px;
+    display: flex;
+    border: 1px solid #dadada;
+    margin: 10px;
+}
+
+.busqueda .image{
+    width: 200px;
+    flex-shrink: 0;
+}
+
+.busqueda .image img{
+    width: 100%;
+}
+
+.busqueda .descripcion{
+
+}
+
+.busqueda .descripcion p{
+    padding: 20px;
+}
+
+.busqueda .descripcion h1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+

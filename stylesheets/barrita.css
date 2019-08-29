@@ -14,6 +14,8 @@
 	text-decoration:none;
 	display: block;
 	padding: 20px 5px;
+	transition: 0.5s;
+	cursor: pointer;
 }
 
 .barra ul li:hover ion-icon{
@@ -22,4 +24,10 @@
 .barra ul li ion-icon{
 	margin-right: 20px;
 	transition: all 0.5s;
+}
+
+
+.barra ul li a:hover{
+	background-color: black;
+	color: white;
 }

@@ -1,0 +1,11 @@
+.grid{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.grid .box{
+	width: 25%;
+	padding: 1%;
+	
+}

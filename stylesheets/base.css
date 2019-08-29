@@ -30,6 +30,7 @@ header{
 	flex-shrink: 0;
 	width: 300px;
 	border-right: 1px solid #dadada;
+	background: #f4f4f4;
 }
 
 .home .col-right{

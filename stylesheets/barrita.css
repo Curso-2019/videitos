@@ -1,11 +1,14 @@
 
 .barra{
 	margin-bottom:15px;
-	padding:30px;
+	background:#E3E3E3;
+	padding-top:10px;
 }
 
+
+
 .barra ul{
-	border-bottom:1px solid #dadada;
+	border-bottom:1px solid #ADADAD;
 	list-style:none;
 	margin-bottom: 20px;
 }
